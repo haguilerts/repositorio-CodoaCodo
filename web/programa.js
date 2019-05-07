@@ -1,4 +1,4 @@
-class Cuenta {
+class Cuenta { 
     
     static ingresar(){
         console.log("Estas adentro del metodo.");
