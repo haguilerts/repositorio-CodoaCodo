@@ -25,7 +25,7 @@ class Cuenta {
             console.log("A la calle!!!!");
             
         }        
-    }
+    }///////////////////////////////////////////////////////////////////////////
                 
     static registrar(){
         console.log("Estamos en el metodo registrar()");        
